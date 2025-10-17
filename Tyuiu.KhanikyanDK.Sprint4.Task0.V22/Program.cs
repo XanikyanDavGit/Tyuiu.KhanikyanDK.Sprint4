@@ -25,7 +25,7 @@ namespace Tyuiu.KhaniykanDK.Sprint4.Task0.V22
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
-
+             
             DataService ds = new DataService();
             int[] nums = { 9, 5, 7, 4, 5, 3, 7, 8, 9, 1 };
             double result = ds.GetSumOddArrEl(nums);

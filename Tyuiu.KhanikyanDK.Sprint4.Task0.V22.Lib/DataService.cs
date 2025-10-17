@@ -4,7 +4,7 @@ namespace Tyuiu.KhanikyanDK.Sprint4.Task0.V22.Lib
     public class DataService : ISprint4Task0V22
     {
         public int GetSumOddArrEl(int[] array)
-        {
+        { 
             int s = 0;
             for (int i = 0; i < array.Length; i++)
             {
