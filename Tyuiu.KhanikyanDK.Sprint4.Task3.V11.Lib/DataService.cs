@@ -4,7 +4,7 @@ namespace Tyuiu.KhanikyanDK.Sprint4.Task3.V11.Lib
 {
     public class DataService : ISprint4Task3V11
     {
-        public int Calculate(int[,] array)
+        public int Calculate(int[,] array) 
         {
             int count = 0;
             int rows = array.GetUpperBound(0) + 1;
