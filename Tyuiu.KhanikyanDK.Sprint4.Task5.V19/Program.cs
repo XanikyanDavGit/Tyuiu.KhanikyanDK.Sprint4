@@ -26,7 +26,7 @@ namespace Tyuiu.KhanikyanDK.Sprint4.Task5.V19
             int[,] matrix = new int[5, 5];
             Random rnd = new Random();
 
-            for (int i = 0; i < 5; i++)
+            for (int i = 0; i < 5; i++) 
             {
                 for (int j = 0; j < 5; j++)
                 {
