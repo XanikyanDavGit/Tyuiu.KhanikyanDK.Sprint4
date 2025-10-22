@@ -39,7 +39,7 @@ namespace Tyuiu.KhanikyanDK.Sprint4.Task5.V19
 
             DataService ds = new DataService(); 
             int result = ds.Calculate(matrix);
-
+             
             Console.WriteLine("***************************************************************************"); 
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
