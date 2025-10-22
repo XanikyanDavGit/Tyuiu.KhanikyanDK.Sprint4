@@ -12,7 +12,7 @@ namespace Tyuiu.KhanikyanDK.Sprint4.Task5.V19.Test
              
             int[,] array =
             {
-                { -2, -1,  0,  1,  2 },
+                { -2, -1,  0,  1,  2 }, 
                 { -2,  3,  1,  0, -1 }, 
                 { -2,  3,  1,  0, -1 },
                 {  2,  2, -2,  1,  0 },
