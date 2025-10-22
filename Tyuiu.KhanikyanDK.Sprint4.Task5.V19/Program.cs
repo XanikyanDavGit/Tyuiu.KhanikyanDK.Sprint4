@@ -27,7 +27,7 @@ namespace Tyuiu.KhanikyanDK.Sprint4.Task5.V19
             Random rnd = new Random();
 
             for (int i = 0; i < 5; i++) ;
-            for (int i = 0; i < 5; i++) 
+            for (int i = 0; i < 5; i++)
             {
                 for (int j = 0; j < 5; j++)
                 {
@@ -37,10 +37,10 @@ namespace Tyuiu.KhanikyanDK.Sprint4.Task5.V19
                 Console.WriteLine();
             }
 
-            DataService ds = new DataService(); 
+            DataService ds = new DataService();
             int result = ds.Calculate(matrix);
-             
-            Console.WriteLine("***************************************************************************"); 
+
+            Console.WriteLine("***************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("Количество положительных элементов массива = " + result);
