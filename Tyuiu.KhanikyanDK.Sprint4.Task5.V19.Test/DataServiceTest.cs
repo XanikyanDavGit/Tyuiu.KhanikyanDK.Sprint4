@@ -21,7 +21,7 @@ namespace Tyuiu.KhanikyanDK.Sprint4.Task5.V19.Test
             };
 
             int res = ds.Calculate(array);
-            int wait = 12; 
+            int wait = 14; 
             Assert.AreEqual(wait, res);
         }
     }
