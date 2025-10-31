@@ -30,7 +30,7 @@ namespace Tyuiu.KhanikyanDK.Sprint4.Task7.V4
             int index = 0;
 
             for (int i = 0; i < n; i++)
-            {
+            { 
                 for (int j = 0; j < m; j++)
                 {
                     matrix[i, j] = int.Parse(value[index].ToString());

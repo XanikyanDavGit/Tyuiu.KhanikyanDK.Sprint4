@@ -6,7 +6,7 @@ namespace Tyuiu.KhanikyanDK.Sprint4.Task7.V4.Test
     public class DataServiceTest
     {
         [TestMethod]
-        public void TestCalculate()
+        public void TestCalculate() 
         {
             DataService ds = new DataService();
             int n = 3;
