@@ -8,11 +8,11 @@ namespace Tyuiu.KhanikyanDK.Sprint4.Task7.V4.Lib
         {
             int[,] matrix = new int[n, m];
             int index = 0;
-            int sum = 0;
+            int sum = 0; 
 
             for (int i = 0; i < n; i++)
             {
-                for (int j = 0; j < m; j++)
+                for (int j = 0; j < m; j++) 
                 {
                     matrix[i, j] = int.Parse(value[index].ToString());
                     index++;
