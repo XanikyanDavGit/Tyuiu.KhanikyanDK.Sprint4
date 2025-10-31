@@ -2,7 +2,7 @@
 
 namespace Tyuiu.KhanikyanDK.Sprint4.Task5.V19.Test
 {
-    [TestClass]
+    [TestClass] 
     public class DataServiceTest
     {
         [TestMethod]

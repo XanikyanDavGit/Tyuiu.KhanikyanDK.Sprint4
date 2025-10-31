@@ -23,7 +23,7 @@ namespace Tyuiu.KhanikyanDK.Sprint4.Task5.V19
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
             Console.WriteLine("***************************************************************************");
 
-            int[,] matrix = new int[5, 5];
+            int[,] matrix = new int[5, 5]; 
             Random rnd = new Random();
 
             for (int i = 0; i < 5; i++) ;
